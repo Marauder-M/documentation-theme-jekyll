@@ -6,7 +6,7 @@ topnav:
     - title: GitHub
       external_url: https://github.com/tomjoht/documentation-theme-jekyll
     - title: News
-      url: /news
+      url: /news.aspx
 
 #Topnav dropdowns
 topnav_dropdowns:
@@ -25,10 +25,10 @@ topnav_dropdowns:
     - title: Products
       folderitems:
         - title: Jekyll Documentation Theme
-          url: /mydoc_introduction.html
+          url: /mydoc_introduction.aspx
         - title: Product 1
-          url: /p1_landing_page.html
+          url: /p1_landing_page.aspx
         - title: Product 2
-          url: /p2_landing_page.html
+          url: /p2_landing_page.aspx
 
 # Copyright 2021 Google LLC

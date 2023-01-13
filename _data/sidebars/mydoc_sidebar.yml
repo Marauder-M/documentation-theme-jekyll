@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
+  product: RED Help Docs
+  version: 0.1
   folders:
 
   - title:
@@ -11,11 +11,11 @@ entries:
     type: frontmatter
     folderitems:
     - title:
-      url: /titlepage.html
+      url: /titlepage.aspx
       output: pdf
       type: frontmatter
     - title:
-      url: /tocpage.html
+      url: /tocpage.aspx
       output: pdf
       type: frontmatter
 
@@ -24,24 +24,24 @@ entries:
     folderitems:
 
     - title: Get started
-      url: /index.html
+      url: /index.aspx
       output: web, pdf
       type: homepage
 
     - title: Introduction
-      url: /mydoc_introduction.html
+      url: /mydoc_introduction.aspx
       output: web, pdf
 
     - title: Supported features
-      url: /mydoc_supported_features.html
+      url: /mydoc_supported_features.aspx
       output: web, pdf
 
     - title: About the theme author
-      url: /mydoc_about.html
+      url: /mydoc_about.aspx
       output: web, pdf
 
     - title: Support
-      url: /mydoc_support.html
+      url: /mydoc_support.aspx
       output: web, pdf
 
   - title: Release Notes
@@ -49,11 +49,11 @@ entries:
     folderitems:
 
     - title: 6.0 Release notes
-      url: /mydoc_release_notes_60.html
+      url: /mydoc_release_notes_60.aspx
       output: web, pdf
 
     - title: 5.0 Release notes
-      url: /mydoc_release_notes_50.html
+      url: /mydoc_release_notes_50.aspx
       output: web, pdf
 
   - title: Installation
@@ -61,15 +61,15 @@ entries:
     folderitems:
 
     - title: About Ruby, Gems, Bundler, etc.
-      url: /mydoc_about_ruby_gems_etc.html
+      url: /mydoc_about_ruby_gems_etc.aspx
       output: web, pdf
 
     - title: Install Jekyll on Mac
-      url: /mydoc_install_jekyll_on_mac.html
+      url: /mydoc_install_jekyll_on_mac.aspx
       output: web, pdf
 
     - title: Install Jekyll on Windows
-      url: /mydoc_install_jekyll_on_windows.html
+      url: /mydoc_install_jekyll_on_windows.aspx
       output: web, pdf
 
   - title: Authoring
@@ -77,35 +77,35 @@ entries:
 
     folderitems:
     - title: Pages
-      url: /mydoc_pages.html
+      url: /mydoc_pages.aspx
       output: web, pdf
 
     - title: Posts
-      url: /mydoc_posts.html
+      url: /mydoc_posts.aspx
       output: web, pdf
 
     - title: Lists
-      url: /mydoc_lists.html
+      url: /mydoc_lists.aspx
       output: web, pdf
 
     - title: Conditional logic
-      url: /mydoc_conditional_logic.html
+      url: /mydoc_conditional_logic.aspx
       output: web, pdf
 
     - title: Content reuse
-      url: /mydoc_content_reuse.html
+      url: /mydoc_content_reuse.aspx
       output: web, pdf
 
     - title: Collections
-      url: /mydoc_collections.html
+      url: /mydoc_collections.aspx
       output: web, pdf
 
     - title: WebStorm editor tips
-      url: /mydoc_webstorm_text_editor.html
+      url: /mydoc_webstorm_text_editor.aspx
       output: web, pdf
 
     - title: Atom editor tips
-      url: /mydoc_atom_text_editor.html
+      url: /mydoc_atom_text_editor.aspx
       output: web, pdf
 
   - title: Navigation
@@ -113,19 +113,19 @@ entries:
 
     folderitems:
     - title: Sidebar navigation
-      url: /mydoc_sidebar_navigation.html
+      url: /mydoc_sidebar_navigation.aspx
       output: web, pdf
 
     - title: YAML tutorial in the context of Jekyll
-      url: /mydoc_yaml_tutorial.html
+      url: /mydoc_yaml_tutorial.aspx
       output: web, pdf
 
     - title: Tags
-      url: /mydoc_tags.html
+      url: /mydoc_tags.aspx
       output: web, pdf
 
     - title: Series
-      url: /mydoc_series.html
+      url: /mydoc_series.aspx
       output: web, pdf
 
   - title: Formatting
@@ -133,47 +133,47 @@ entries:
 
     folderitems:
     - title: Tooltips
-      url: /mydoc_adding_tooltips.html
+      url: /mydoc_adding_tooltips.aspx
       output: web, pdf
 
     - title: Alerts
-      url: /mydoc_alerts.html
+      url: /mydoc_alerts.aspx
       output: web, pdf
 
     - title: Icons
-      url: /mydoc_icons.html
+      url: /mydoc_icons.aspx
       output: web, pdf
 
     - title: Images
-      url: /mydoc_images.html
+      url: /mydoc_images.aspx
       output: web, pdf
 
     - title: Code samples
-      url: /mydoc_code_samples.html
+      url: /mydoc_code_samples.aspx
       output: web, pdf
 
     - title: Labels
-      url: /mydoc_labels.html
+      url: /mydoc_labels.aspx
       output: web, pdf
 
     - title: Links
-      url: /mydoc_hyperlinks.html
+      url: /mydoc_hyperlinks.aspx
       output: web, pdf
 
     - title: Navtabs
-      url: /mydoc_navtabs.html
+      url: /mydoc_navtabs.aspx
       output: web, pdf
 
     - title: Tables
-      url: /mydoc_tables.html
+      url: /mydoc_tables.aspx
       output: web, pdf
 
     - title: Syntax highlighting
-      url: /mydoc_syntax_highlighting.html
+      url: /mydoc_syntax_highlighting.aspx
       output: web, pdf
 
     - title: Workflow maps
-      url: /mydoc_workflow_maps.html
+      url: /mydoc_workflow_maps.aspx
       output: web, pdf
 
   - title: Handling reviews
@@ -181,7 +181,7 @@ entries:
 
     folderitems:
     - title: Commenting on files
-      url: /mydoc_commenting_on_files.html
+      url: /mydoc_commenting_on_files.aspx
       output: web, pdf
 
 #    - title: Git collaboration
@@ -193,35 +193,35 @@ entries:
 
     folderitems:
     - title: Build arguments
-      url: /mydoc_build_arguments.html
+      url: /mydoc_build_arguments.aspx
       output: web, pdf
 
     - title: Themes
-      url: /mydoc_themes.html
+      url: /mydoc_themes.aspx
       output: web, pdf
 
     - title: Generating PDFs
-      url: /mydoc_generating_pdfs.html
+      url: /mydoc_generating_pdfs.aspx
       output: web, pdf
 
     - title: Help APIs and UI tooltips
-      url: /mydoc_help_api.html
+      url: /mydoc_help_api.aspx
       output: web, pdf
 
     - title: Search configuration
-      url: /mydoc_search_configuration.html
+      url: /mydoc_search_configuration.aspx
       output: web, pdf
 
     - title: iTerm profiles
-      url: /mydoc_iterm_profiles.html
+      url: /mydoc_iterm_profiles.aspx
       output: web, pdf
 
     - title: Pushing builds to server
-      url: /mydoc_push_build_to_server.html
+      url: /mydoc_push_build_to_server.aspx
       output: web, pdf
 
     - title: Publishing on Github Pages
-      url: /mydoc_publishing_github_pages.html
+      url: /mydoc_publishing_github_pages.aspx
       output: web, pdf
 
   - title: Special layouts
@@ -229,19 +229,19 @@ entries:
 
     folderitems:
     - title: Knowledge-base layout
-      url: /mydoc_kb_layout.html
+      url: /mydoc_kb_layout.aspx
       output: web, pdf
 
     - title: Glossary layout
-      url: /mydoc_glossary.html
+      url: /mydoc_glossary.aspx
       output: web, pdf
 
     - title: FAQ layout
-      url: /mydoc_faq_layout.html
+      url: /mydoc_faq_layout.aspx
       output: web, pdf
 
     - title: Shuffle layout
-      url: /mydoc_shuffle.html
+      url: /mydoc_shuffle.aspx
       output: web, pdf
 
   - title: Troubleshooting
@@ -250,7 +250,7 @@ entries:
     folderitems:
 
     - title: Troubleshooting
-      url: /mydoc_troubleshooting.html
+      url: /mydoc_troubleshooting.aspx
       output: web, pdf
 
   - title: Tag archives
@@ -258,7 +258,7 @@ entries:
     folderitems:
 
     - title: Tag archives overview
-      url: /mydoc_tag_archives_overview.html
+      url: /mydoc_tag_archives_overview.aspx
       output: web
 
       subfolders:
@@ -267,31 +267,31 @@ entries:
         subfolderitems:
 
         - title: Formatting pages
-          url: /tag_formatting.html
+          url: /tag_formatting.aspx
           output: web
 
         - title: Navigation pages
-          url: /tag_navigation.html
+          url: /tag_navigation.aspx
           output: web
 
         - title: Content types pages
-          url: /tag_content_types.html
+          url: /tag_content_types.aspx
           output: web
 
         - title: Publishing pages
-          url: /tag_publishing.html
+          url: /tag_publishing.aspx
           output: web
 
         - title: Special layout pages
-          url: /tag_special_layouts.html
+          url: /tag_special_layouts.aspx
           output: web
 
         - title: Collaboration pages
-          url: /tag_collaboration.html
+          url: /tag_collaboration.aspx
           output: web
 
         - title: Troubleshooting pages
-          url: /tag_troubleshooting.html
+          url: /tag_troubleshooting.aspx
           output: web
 
 # Copyright 2021 Google LLC
